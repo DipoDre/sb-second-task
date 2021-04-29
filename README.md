@@ -1,1 +1,3 @@
-# second-task
+# DESCRIPTION
+
+A single page web application.
